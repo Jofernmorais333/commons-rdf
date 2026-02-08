@@ -62,7 +62,7 @@
         the versions marked as <optional> in jena-osgi pom
          -->
     <dexx.collection.version>0.7</dexx.collection.version>
-    <servicemix.xerces.version>2.11.0_1</servicemix.xerces.version>
+    <servicemix.xerces.version>2.12.2_1</servicemix.xerces.version>
     <!-- Test dependencies -->
     <slf4j.version>1.7.26</slf4j.version>
     <skipAPICompatCheck>false</skipAPICompatCheck>
@@ -233,7 +233,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -246,7 +246,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
               </pluginExecutions>
